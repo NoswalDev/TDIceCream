@@ -1,0 +1,1 @@
+https://github.com/parallaxinc/propeller/tree/master/libraries/community/p1/All/fullDuplexSerial4port
